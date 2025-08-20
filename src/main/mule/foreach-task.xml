@@ -23,5 +23,6 @@ output application/json
 payload]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="46fb7cf1-98a8-4fd9-9421-d16d859777da" message="git repo used "/>
 	</flow>
 </mule>
